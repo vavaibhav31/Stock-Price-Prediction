@@ -1,2 +1,2 @@
-# Sales-Prediction
-This is a repository for Regression Analysis on Sales Prediction
+# Stock-Price-Prediction
+This is a repository for Regression Analysis on Stock Price Prediction
